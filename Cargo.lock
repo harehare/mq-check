@@ -737,7 +737,7 @@ dependencies = [
 
 [[package]]
 name = "mq-check"
-version = "0.5.14"
+version = "0.1.0"
 dependencies = [
  "clap",
  "colored",
