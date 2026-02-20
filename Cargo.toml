@@ -15,7 +15,7 @@ version = "0.1.1"
 clap = {version = "4.5.60", features = ["derive"]}
 colored = "3.1.1"
 miette = {version = "7.6.0", features = ["fancy"]}
-mq-hir = "0.5.15"
+mq-hir = "0.5.16"
 
 [[bin]]
 name = "mq-check"
